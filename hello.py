@@ -9,7 +9,7 @@ def home():
 
 @app.route('/city')
 def city():
-    return "Welcome to Chennai"
+    return "Welcome to bangalore"
 
 
 @app.route('/org')
